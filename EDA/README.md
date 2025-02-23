@@ -1,1 +1,1 @@
-#This folder contains all EDA files.
+#Exploratory Data Analysis
